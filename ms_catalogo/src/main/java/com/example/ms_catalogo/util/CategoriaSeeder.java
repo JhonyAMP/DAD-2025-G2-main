@@ -41,6 +41,24 @@ public class CategoriaSeeder implements CommandLineRunner {
 
             categoriaRepository.save(cat1);
             categoriaRepository.save(cat2);
+            categoriaRepository.save(cat3);
+            categoriaRepository.save(cat4);
+            categoriaRepository.save(cat5);
+            categoriaRepository.save(cat6);
+            categoriaRepository.save(cat7);
+            categoriaRepository.save(cat8);
+            categoriaRepository.save(cat9);
+            categoriaRepository.save(cat10);
+            categoriaRepository.save(cat11);
+            categoriaRepository.save(cat12);
+            categoriaRepository.save(cat13);
+            categoriaRepository.save(cat14);
+            categoriaRepository.save(cat15);
+            categoriaRepository.save(cat16);
+            categoriaRepository.save(cat17);
+            categoriaRepository.save(cat18);
+            categoriaRepository.save(cat19);
+            categoriaRepository.save(cat20);
 
 
             System.out.println("Datos de categorías insertados correctamente.");
