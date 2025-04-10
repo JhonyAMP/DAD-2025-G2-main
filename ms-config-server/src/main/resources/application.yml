@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/vladimirqt233/Distribuidas-2025.git # ruta del repositorio git
+          uri: https://github.com/JhonyAMP/DAD-2025-G2-main.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
